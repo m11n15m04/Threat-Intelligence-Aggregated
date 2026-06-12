@@ -1,0 +1,6 @@
+{
+  "name": "Threat Intelligence Aggregator",
+  "description": "An security-focused threat intelligence aggregator to collect, parse, normalize, and correlate IOCs from multiple security feeds, generating firewall, web filter, and EDR blocklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
